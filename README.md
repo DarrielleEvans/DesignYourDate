@@ -4,7 +4,7 @@ Welcome to the Savory Eats FoodHall Date Night Python Script! Use this script to
 
 ## Features:
 
-** Choose Your Date's Name: Start by naming your date.
+* Choose Your Date's Name: Start by naming your date.
 * Set Your Budget: Determine how much you'd like to spend for the night.
 * Order from the Menu: Pick from a list of entrees, drinks, and desserts for both you and your date.
 * Bill Calculation: The script calculates the total bill based on your choices.
