@@ -6,14 +6,14 @@ import random
 
 # The following lines are the functions that will be used in the script
 
-#Function will has one parameter which will be the customers order and will place their input into a list
+#Function has one parameter which will be the customers order and will place their input into a list
 def createOrderList(order):
     orderList = []
     orderList = order.split(" ")
     return orderList
 
 #Function will iterate through the list and match its values with the keys in the dictionary
-#The total off all keys will be added and stored in the variable total
+#The total of all keys will be added and stored in the variable total
 def calcBillTotal(orderList, foodMenu):
     total = 0
     for item in orderList:
